@@ -5,7 +5,7 @@ class Task{
 	private boolean isCompleted;
 	Task(String description){
 		this.description=description;
-	}
+	}   
 	String getDescription() {
 		return this.description;
 	}
